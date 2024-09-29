@@ -7,3 +7,6 @@ fastapi
 uvicorn
 langserve
 sse_starlette
+bs4
+chromadb
+faiss-cpu
